@@ -1,4 +1,4 @@
-![Jean-Claw Van Damme](/assets/banner.png)
+![Jean-Claw Van Damme](/assets/banner.jpg)
 
 # Jean-Claw Van Damme 🦞🥋
 
