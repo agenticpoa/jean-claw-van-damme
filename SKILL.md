@@ -1,5 +1,5 @@
 ---
-name: jean-claw-van-damme
+name: jcvd
 version: 0.1.0
 description: Authorization gatekeeper for OpenClaw agents. Scoped grants, time-bound permissions, skill scanning, prompt injection detection, and full audit trail. The roundhouse kick your agent needs.
 author: agenticpoa
