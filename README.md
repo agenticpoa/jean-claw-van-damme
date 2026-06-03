@@ -8,6 +8,19 @@ Authorization gatekeeper for OpenClaw agents. Scoped grants, time-bound permissi
 
 Built on principles from the [APOA (Agentic Power of Attorney)](https://agenticpoa.com) framework by [agenticpoa](https://github.com/agenticpoa).
 
+<p align="center">
+  <a href="#why-jean-claw">Why</a> ·
+  <a href="#quick-start">Quick Start</a> ·
+  <a href="#core-features">Features</a> ·
+  <a href="#commands">Commands</a> ·
+  <a href="#apoa-framework">APOA</a> ·
+  <a href="#architecture">Architecture</a> ·
+  <a href="#security-philosophy">Security</a> ·
+  <a href="#roadmap">Roadmap</a> ·
+  <a href="#contributing">Contributing</a> ·
+  <a href="#license">License</a>
+</p>
+
 ## Why Jean-Claw?
 
 The OpenClaw ecosystem is powerful and growing fast. But with 13,000+ skills on ClawHub, [341 malicious skills discovered](https://snyk.io/blog/clawhub-malicious-google-skill-openclaw-malware/) in the ClawHavoc incident, and agents that can send messages, run shell commands, and access credentials -- the attack surface is real.
